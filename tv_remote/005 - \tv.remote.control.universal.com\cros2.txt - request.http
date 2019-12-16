@@ -1,0 +1,6 @@
+GET /tv.remote.control.universal.com/cros2.txt HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.1.1; Android SDK built for x86 Build/LMY48X)
+Host: dialog-4a78.kxcdn.com
+Accept-Encoding: gzip
+Connection: keep-alive
+
