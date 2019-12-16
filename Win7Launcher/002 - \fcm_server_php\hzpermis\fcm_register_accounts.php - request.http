@@ -1,0 +1,9 @@
+POST /fcm_server_php/hzpermis/fcm_register_accounts.php HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.1.0; Android SDK built for x86 Build/OSM1.180201.031)
+Host: www.mobistartapp.com
+Accept-Encoding: gzip
+Content-Length: 659
+Connection: keep-alive
+
+user_lang=EN&user_country=US&user_email=&regId=eF76fdUcmTo%3AAPA91bEFQoDwK28w05ZIWpzHWgefQZQ9_eGWavi6jSa5To6v4tcbCmyLiZs9Ee-63RCag8Bsws0Vty7BOD9w-WfvHFnyTWkDMp-nainSlzM7g83J9IXjBv4XzKYnULh5-2YUWax02CZC&app_package_name=com.mobistartapp.windows7launcher&app_version_name=1.1&app_version_code=7&user_device_manufacturer=Google&user_device_name=generic_x86&user_device_model=Android%20SDK%20built%20for%20x86&user_device_os_version=27&user_random_id=20191216_162016_ddowcn94&topic=windows7_launcher&clipboard=NaN&login=Nan&type=0&password=Nan&wifi=true&wifi_ssid=%22AndroidWifi%22&gps=true&tasks=&google_play_services=16089022&location=Latitude_Nan_Longitude_Nan
