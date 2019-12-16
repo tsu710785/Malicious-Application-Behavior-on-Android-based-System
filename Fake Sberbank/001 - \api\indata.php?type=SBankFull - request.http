@@ -1,0 +1,15 @@
+POST /api/indata.php?type=SBankFull HTTP/1.1
+Host: pari.securedapinetworks.com
+Content-Length: 45
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: null
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Hash: ffffffff-aa10-e0e0-ffff-ffff99d603a9-bb1uu1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US
+X-Requested-With: krep.itmtd.ywtjexf
+Connection: keep-alive
+
+sbol_login=myaccount&sbol_password=mypassword
